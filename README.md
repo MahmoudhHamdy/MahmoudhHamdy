@@ -2,7 +2,7 @@
 
 #### About Me:
 
-- 🔭 I’m currently working as a Data Analyst in the Noor Energy System in Saudi Arabia 
+- 🔭 I’m currently working as a Data Analyst in POWR in Saudi Arabia 
 - 🌱 I’m currently learning AI && ML
 
 
@@ -13,9 +13,6 @@
 * Data Analytics, Business Intelligence
 * Microsoft Power BI, Data Visualization
 * (SSIS) SQL Server Integration Services, (SSAS) SQL Server Analysis Services, (SSRS) SQL Server Reporting Service
-* Data Warehouse (DWH), Extract Transform Load (ETL)
-* Data Science, Data Engineering
-* Microsoft Excel, PowerPoint, Access
 * Familiar with Big Data technologies
 
 
@@ -26,7 +23,6 @@
 * Time Management and Prioritization
 * Adaptability and Flexibility
 * Initiative and Self-Motivation
-* Leadership and Mentorship
 * Attention to Detail
 * Positive Attitude and Willingness to Learn
 
