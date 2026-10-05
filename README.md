@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Mahmoud Hamdy, a Data Analyst 
+### Hi there 👋  I'm Mahmoud Hamdy, a Senior Data Analyst 
 
 #### About Me:
 
